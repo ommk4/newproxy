@@ -1,0 +1,5 @@
+name = "myproxy"
+type = "javascript"
+
+main = "worker.js"
+compatibility_date = "2024-03-04" # أو استخدم تاريخ اليوم
