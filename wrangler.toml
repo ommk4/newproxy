@@ -1,4 +1,4 @@
-name = "myproxy"
+name = "newproxy"
 type = "javascript"
 
 main = "worker.js"
